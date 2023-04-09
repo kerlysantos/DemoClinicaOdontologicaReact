@@ -1,0 +1,45 @@
+.clinica{
+  color:#242121;
+  text-align: center;
+  font-size: 100%;
+  justify-content: center;
+  display:flex;
+  height: 1px;
+  margin-top: 1px;
+  
+}
+
+.container-home{
+justify-content: center;
+background-image: url(img/logo.png);
+background-repeat: no-repeat;
+text-align: center;
+margin-top: 5.5%;
+background-position: center center;
+background-size: 480px;
+height: 400px;
+margin-bottom: 08.5%;
+margin-left: 0%;
+margin-right: 05%;
+
+
+
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.container-light{
+  background-color: white;
+  color: black;
+  
+}
+.container-dark{
+  background-color: black;
+  color: white;
+}

@@ -1,0 +1,53 @@
+.conteiner-navbar{
+    background-color: #ffffff;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    width: 91% ;
+    text-align: center;
+    background-image: url(./Diseño.png);
+    background-repeat: no-repeat;
+    background-size: 103px;
+    margin-left: 106px;
+    margin-top: 12px;
+    justify-content:space-evenly;
+    
+
+
+}
+
+.barra1{
+    justify-content:space-evenly;
+    margin: 0 auto 0px;
+    text-decoration: none;
+    font-size: 16px;
+    justify-content:center;
+    text-decoration:none;
+    list-style: none;
+    align-items: center;
+    padding: 1px;
+    transition: color 0.3s;
+    cursor: auto;
+    background-color: rgb(255, 255, 255); 
+    color:blueviolet;
+    position: relative;
+    cursor: pointer;
+    text-transform: uppercase;
+    width: fit-content;
+    transition: all 450ms ease;
+
+    
+
+}
+
+
+
+a:hover {
+    color: #bc24eb;
+  }
+
+button:focus,
+button:focus-visible {
+outline: 1px auto -webkit-focus-ring-color;
+}
+

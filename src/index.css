@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  :root {
+    color-scheme: light dark;
+    color: blueviolet;
+    background-color: rgb(255, 255, 255);
+  }
+
+  .container-light{
+    background-color: white;
+    color: black;
+    
+  }
+  .container-dark{
+    background-color: black;
+    color: white;
+  }

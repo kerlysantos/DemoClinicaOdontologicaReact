@@ -1,0 +1,30 @@
+.card1{
+    display: flex;
+    justify-Content: center;
+    gap: 30px;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 1px;
+    background-image: url(diente2.jpg);
+    
+    
+   
+
+}
+
+h1{
+    color: black;
+}
+
+.bu button {
+
+    background-color: #af4c82;
+    color: white;
+    padding: 155px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    cursor: pointer;
+    justify-content: center;
+    margin: 46px;
+}
